@@ -55,8 +55,8 @@ REGION_SERVER_MAP = {
     "RU":  "https://clientbp.ggpolarbear.com",        # Russia
     "TH":  "https://clientbp.ggpolarbear.com",        # Thailand
 }
-DEFAULT_SERVER_URL = "https://clientbp.ggblueshark.com"   # fallback
-LOGIN_URL = "https://loginbp.ggpolarbear.com"             # same for all regions
+DEFAULT_SERVER_URL = "https://clientbp.ggwhitehawk.com"   # fallback
+LOGIN_URL = "https://loginbp.ggpolarbear.com/"             # same for all regions
 
 # Helper: encrypt payload with AES-CBC
 def encrypt_payload(data):
